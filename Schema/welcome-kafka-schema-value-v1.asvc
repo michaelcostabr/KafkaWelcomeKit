@@ -1,0 +1,18 @@
+{
+  "doc": "Schema de exemplo para aprendizado do Kafka",
+  "fields": [
+    {
+      "doc": "Identidade da mensagem.",
+      "name": "id",
+      "type": "int"
+    },
+    {
+      "doc": "Qualquer mensagem de teste",
+      "name": "mensagem",
+      "type": "string"
+    }
+  ],
+  "name": "welcome_kafka",
+  "namespace": "com.localiza.arquitetura",
+  "type": "record"
+}
