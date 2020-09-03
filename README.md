@@ -3,6 +3,8 @@ Este projeto tem como objetivo demonstrar o uso do Apache Kafka através da bibl
 Foram implementados diversos cenários de uso cobrindo várias nuances de uma aplicação que trabalhe com streaming/mensageria.
 Existem dois arquivos de configuração, appsettings.json, configurado para apontar para nosso ambiente Kafka Corporativo para Pocs, e também o arquivo appsettings.cloud.json, configurado para rodar uma instancia local do Kafka.
 
+Na pasta "docs", podem ser apreciados alguns artigos que escrevi durante meus estudos da plataforma.
+
 Veja abaixo os cenários iniciais:
 
 ## Produtor
