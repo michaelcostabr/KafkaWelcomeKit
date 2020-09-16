@@ -70,7 +70,7 @@ dotnet tool install --global Confluent.Apache.Avro.AvroGen
 Feito isso, baixar o schema do tópico em questão (arquivo .asvc) e rodar o comando abaixo:
 
 ```
-avrogen -s ./schema.asvc .
+avrogen -s ./schema.avsc .
 ```
 Será gerada uma classe para ser importada no projeto.
 
